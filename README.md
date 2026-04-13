@@ -1,2 +1,13 @@
-# react-node-store-project
-Reference project using React + Typescript on the Frontend and Node + Express + Typescript on the Backend
+# React Node Store Project
+
+### Reference project using React + Typescript on the Frontend and Node + Express + Typescript on the Backend
+
+## ⚡ Instalation
+
+👉 `git clone https://github.com/https://github.com/Pe3k-19/node-express-store-project.git`
+
+👉 `cd backend`
+
+👉 `npm install`
+
+👉 `npm run dev`
