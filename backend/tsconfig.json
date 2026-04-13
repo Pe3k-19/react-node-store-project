@@ -1,0 +1,11 @@
+{
+  // Visit https://aka.ms/tsconfig to read more about this file
+  // See also https://aka.ms/tsconfig/module
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "target": "ES6",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
